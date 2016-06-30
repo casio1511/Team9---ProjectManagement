@@ -23,7 +23,11 @@
 </head>
 <body>
 <%
-  SendEmail.main(SendMailJSPGUI.test(), "hellenp1995@gmail.com");
+  //SendEmail.main(SendMailJSPGUI.test(), "hellenp1995@gmail.com");
 %>
+<table width="1000px">
+  <tr><td style="background-color: greenyellow" width="1000px">Active your account</td></tr>
+  <tr><td width="100%">Please click here to active your account</td></tr>
+</table>
 </body>
 </html>

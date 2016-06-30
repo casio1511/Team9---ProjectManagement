@@ -1,14 +1,11 @@
 package com.mypackage;
 
-import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import javax.sound.midi.SysexMessage;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.lang.reflect.AccessibleObject;
 
 /**
  * Created by Phuong Tran on 18/11/2015.
@@ -23,8 +20,7 @@ public class LoginControllerServlet extends HttpServlet {
         PrintWriter out = response.getWriter();
         HttpSession session = request.getSession();
         String username = request.getParameter("username");
-        String pass = request.getParameter("password");
-        String password = MD5.getMD5(pass);
+        String password = request.getParameter("password");
         if(session.getAttribute("count")!=null)
             if((int)session.getAttribute("count") == 3)
                 response.sendRedirect("signup.jsp");
