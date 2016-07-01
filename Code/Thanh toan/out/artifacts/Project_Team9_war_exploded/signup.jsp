@@ -11,7 +11,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Login</title>
+  <title>N-Air a E-commerce category Flat Bootstrap Responsive Website Template | Checkout :: w3layouts</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="keywords" content="N-Air Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
@@ -109,7 +109,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </ul>
               </li>
               <li><a href="contact.jsp">Catch</a></li>
-              <li><a href="aboutus.jsp">About Us</a></li>
               <div class="clearfix"></div>
             </ul>
 
@@ -150,25 +149,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             count = (int) session.getAttribute("count");
           }
           if(count < 3 ){%>
-            <p>Welcome, please enter the following to continue.<br></p>
+        <p>Welcome, please enter the following to continue.<br></p>
         <%}
           if(session.getAttribute("mess") != null && count < 3 ){
-          String mess = (String)session.getAttribute("mess");
+            String mess = (String)session.getAttribute("mess");
         %>
-          <p style="color: red;"><%=mess%></p>
+        <p style="color: red;"><%=mess%></p>
         <%}
           if(count == 3){%>
-          <p style="color: red;"><b>Your account will be blocked in 30 minutes</b></p>
-           <img src="images/block_account.jpg" width="550px" height="300px" align="left">
-         <% }
-          else if(count < 3){%>
+        <p style="color: red;"><b>Your account will be blocked in 30 minutes</b></p>
+        <img src="images/block_account.jpg" width="550px" height="300px" align="left">
+        <% }
+        else if(count < 3){%>
         <form method="post" action="logincontroller">
           <h5>User Name:</h5>
-          <input type="text" placeholder="enter your username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'enter your username'" name="username">
+          <input type="text" value="" name="username">
           <h5>Password:</h5>
-          <input type="password" placeholder="enter your password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'enter your password'" name="password"><br>
-          <input type="checkbox" name="rememberme"> Remember me
-          <br><br><input type="submit" value="Login">
+          <input type="password" value="" name="password"><br>
+          <input type="submit" value="Login">
         </form>
         <a href="#">Forgot Password ?</a>
         <%}%>
@@ -177,7 +175,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <h3>New Registration</h3>
         <div class="strip"></div>
         <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
-        <a href="register.jsp" class="button">Create An Account</a>
+        <a href="register.html" class="button">Create An Account</a>
       </div>
       <div class="clearfix"></div>
     </div>
@@ -202,7 +200,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <li><a href="#">Contact us</a></li>
 
 
-        <li><a href="contact.jsp">Sitemap</a></li>
+        <li><a href="contact.html">Sitemap</a></li>
       </ul>
     </div>
     <div class="col-md-6 re-ft-grd">
@@ -217,7 +215,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="col-md-2 re-ft-grd">
       <div class="bt-logo">
         <div class="logo">
-          <a href="index.jsp" class="ft-log">N-AIR</a>
+          <a href="index.html" class="ft-log">N-AIR</a>
         </div>
       </div>
     </div>
@@ -226,7 +224,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   <div class="copy-rt">
     <div class="container">
       <p>&copy;   2016 N-AIR All Rights Reserved. Design by Group 9 - Project Manager - University of Science
-      <p>   Group member: <a href="#">Phương Trân - Minh Quân - Đức Vinh</a></p>
+      <p>   Group member: <a href="#">PhÆ°Æ¡ng TrÃ¢n - Minh QuÃ¢n - Äá»©c Vinh</a></p>
     </div>
   </div>
 </div>
