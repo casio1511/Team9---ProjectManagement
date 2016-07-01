@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Project_Team9:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project_Team9_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Project_Team9/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Project_Team9" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-3.1.14-bin" />
+          <element id="library" level="project" name="java-mail-1.4.4" />
+          <element id="library" level="project" name="javamail-mailapi-1.4" />
+          <element id="library" level="project" name="javax-crypto" />
+          <element id="library" level="project" name="org-apache-commons-codec" />
+          <element id="library" level="project" name="commons-fileupload-1.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
