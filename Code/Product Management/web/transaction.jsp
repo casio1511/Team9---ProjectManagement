@@ -179,7 +179,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
       </div>
       <%
-        List<Bill> list = BillDAO.getByMail(account.getM_Email());
+        List<Bill> list = BillDAO.getByMail(Account.getM_Email());
       %>
         <%=BillJSPGUI.PersonalBill(list)%>
       <div class="clearfix"> </div>
