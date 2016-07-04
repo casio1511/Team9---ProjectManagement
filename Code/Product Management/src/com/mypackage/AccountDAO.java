@@ -431,5 +431,36 @@ public class AccountDAO {
         }
         return check;
     }
+    public static Account getUser(String username, String password){
+        String database = "shoe_database";
+        String connectionURL = "jdbc:mysql://localhost:3306/" + database;
+        String dbUser = "root";
+        String dbPassword = "";
+        Connection conn = null;
+        PreparedStatement stmt = null;
+        Account new_account = new Account();
+        try{
+            conn = DriverManager.getConnection(connectionURL, dbUser, dbPassword);
+            stmt = conn.prepareStatement("SELECT * FROM account WHERE Username=? AND Password=?");
+            stmt.setString(1, username);
+            stmt.setString(2, password);
+            ResultSet rs = stmt.executeQuery();
+            rs.next();
+            new_account.setM_Username(rs.getString("Username"));
+            new_account.setM_Password(rs.getString("Password"));
+            new_account.setM_Status(rs.getInt("Status"));
+            rs.close();
+            stmt.close();
+            if(conn != null){
+                conn.close();
+                conn = null;
+            }
+        }
+        catch (SQLException sqle){
+            System.out.println("Can't connect to database");
+        }
+        return new_account;
+    }
+
 }
 
