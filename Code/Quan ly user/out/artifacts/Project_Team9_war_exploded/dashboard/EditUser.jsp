@@ -37,9 +37,9 @@
       int role = Integer.parseInt(request.getParameter("role"));
       int id = Integer.parseInt(request.getParameter("id"));
       AccountDAO.setRole(id, role);
-      response.sendRedirect("user_detail.jsp?id="+id);
+      //response.sendRedirect("user_detail.jsp?id="+id);
     }
-    response.sendRedirect("dashboard.jsp");
+    response.sendRedirect("user.jsp");
   }
 
 %>

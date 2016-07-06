@@ -44,8 +44,9 @@
           FileItem fi = (FileItem) i.next();
           if (!fi.isFormField()) {
             String filename = fi.getName();
-            String fieldValue = fi.getString();
-            file = new File(filePath + "\\" + filename);
+            String fieldValue = fi.getString();. Tất cả đựng trong hộp tiện gọn đẹp mắt có thể dùng mọi lúc mọi nơi
+            Bạn muốn có sức khoẻ tốt, vóc dáng thon gọn và làn da tươi trẻ thì hãy order Green & Fresh ngay để có nhiều
+                    file = new File(filePath + "\\" + filename);
             product.setM_Image(filename);
             fi.write(file);
           } else {

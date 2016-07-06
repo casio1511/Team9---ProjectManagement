@@ -47,7 +47,7 @@ public class SendMailJSPGUI {
                 "  <tr><td style='font-size: 13px; padding-top: 10px; padding-left: 20px'>Hi "+name+"</td></tr>"+
                 "  <tr><td style='font-size: 13px; padding-top: 10px; padding-left: 20px'>Welcome to N-Air website</td></tr>"+
                 "  <tr><td style='font-size: 13px; padding-top: 10px; padding-left: 20px'>Please click below to verify your email address</td></tr>\n" +
-                "  <tr><td align='center'><a href='http://localhost:8080/active_email.jsp?active=1&&email="+email+"' class='button_email' style='background-color: #2F4F4F;\n" +
+                "  <tr><td align='center'><a href='http://localhost:8081/active_email.jsp?active=1&&email="+email+"' class='button_email' style='background-color: #2F4F4F;\n" +
                 "  border: none; color: white; padding: 15px 32px; opacity: 0.5;" +
                 "  text-align: center; text-decoration: none; display: inline-block;\n" +
                 "  font-size: 14px; margin: 4px 2px; cursor: pointer;'><b>Verify</b></a></td></tr></table>");
