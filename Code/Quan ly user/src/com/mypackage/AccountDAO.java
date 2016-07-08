@@ -1,10 +1,5 @@
 package com.mypackage;
 
-import javax.crypto.*;
-import javax.crypto.spec.PBEKeySpec;
-import java.io.UnsupportedEncodingException;
-import java.security.NoSuchAlgorithmException;
-import java.security.spec.InvalidKeySpecException;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -394,6 +389,7 @@ public class AccountDAO {
             new_account.setM_Email(rs.getString("Email"));
             new_account.setM_Address(rs.getString("Address"));
             new_account.setM_Phone(rs.getString("Phone"));
+            new_account.setM_Role(rs.getInt("role"));
             rs.close();
             stmt.close();
             if(conn != null){
