@@ -1,0 +1,122 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2016-06-26 16:23:44
+LastUsageStatisticCall<|||>1<|||>2016-06-06 10:29:10
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>60,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>341,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>99,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1360
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1360
+MainWinMaximized<|||>3<|||>1
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+ExportSQL_Filenames<|||>1<|||>newdb<{{{><}}}>
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>2
+SQLFile0<|||>1<|||>C:\Users\DELL\Downloads\shoe_database.sql
+SQLFile1<|||>1<|||>C:\Users\DELL\Downloads\newdb.sql
+SQLFile2<|||>1<|||>C:\Users\DELL\Desktop\newdb.sql
+querymemoheight<|||>3<|||>265
+Servers\Unnamed\SessionCreated<|||>1<|||>2016-06-06 10:29:16
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>5
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>0
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>0
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>4
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\RefusedCount<|||>3<|||>6
+Servers\Unnamed\ServerVersionFull<|||>1<|||>5.6.26 - MySQL Community Server (GPL)
+Servers\Unnamed\ConnectCount<|||>3<|||>37
+Servers\Unnamed\ServerVersion<|||>3<|||>50626
+Servers\Unnamed\LastConnect<|||>1<|||>2016-06-28 16:35:13
+Servers\Unnamed\lastUsedDB<|||>1<|||>shoe_database
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2016-06-08 22:24:11|shoe_database|94|select count(*) from product where name="SOLAR RNR" and color="3"
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2016-06-09 00:23:41|shoe_database|0|SELECT * FROM product WHERE ID = 34
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2016-06-09 00:33:45|shoe_database|281|insert into category(name) values ("New Balance")
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2016-06-09 12:19:23|shoe_database|0|select * from account where Username='admin1'
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2016-06-09 13:28:08|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 0, 1 
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2016-06-09 13:28:11|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 0, 3 
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2016-06-09 13:28:32|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 1, 3
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2016-06-09 13:28:51|shoe_database|0|select * from product GROUP BY Name, Color 
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2016-06-09 13:28:57|shoe_database|0|select * from product 
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2016-06-09 13:29:03|shoe_database|15|select DISTINCT * from product 
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2016-06-09 13:29:09|shoe_database|0|select DISTINCT * from product GROUP BY Name
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2016-06-09 13:29:29|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 0, 3
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2016-06-09 13:29:50|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 0, 12
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2016-06-09 13:29:54|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2016-06-09 13:30:10|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color LIMIT 0, 9
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2016-06-09 13:31:45|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color 
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2016-06-09 17:28:00|shoe_database|0|select * from product where name='SOLAR RNR' GROUP BY Name, Color
+Servers\Unnamed\QueryHistory\18<|||>1<|||>2016-06-09 21:28:09|shoe_database|0|select DISTINCT * from product where name='SOLAR' limit 0, 9
+Servers\Unnamed\QueryHistory\19<|||>1<|||>2016-06-09 21:28:16|shoe_database|31|select DISTINCT * from product where name like 'SOLAR' limit 0, 9
+Servers\Unnamed\QueryHistory\20<|||>1<|||>2016-06-09 21:28:22|shoe_database|0|select DISTINCT * from product where name like '%SOLAR%' limit 0, 9
+Servers\Unnamed\QueryHistory\21<|||>1<|||>2016-06-09 21:28:32|shoe_database|0|select DISTINCT * from product where name like '%SOLAR%' GROUP BY name, color limit 0, 9
+Servers\Unnamed\QueryHistory\22<|||>1<|||>2016-06-10 21:06:23|shoe_database|0|select * from product where name='SOLAR RNR' and size=8 and color=3
+Servers\Unnamed\QueryHistory\23<|||>1<|||>2016-06-11 09:21:56|shoe_database|0|select DISTINCT * from product GROUP BY Name, Color ORDER BY ImportedDate DESC LIMIT 0, 9
+Servers\Unnamed\QueryHistory\24<|||>1<|||>2016-06-28 12:50:12|shoe_database|16|SELECT * FROM category WHERE id=34
+Servers\Unnamed\QueryHistory\25<|||>1<|||>2016-06-28 17:58:46|shoe_database|16|select sum(total) from bill 
+Servers\Unnamed\QueryHistory\26<|||>1<|||>2016-06-28 17:59:19|shoe_database|16|select sum(total), month(date) from bill group by month(date)
+Servers\Unnamed\shoe_database|account\Sort<|||>1<|||>0_Phone|
